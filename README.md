@@ -4,4 +4,4 @@ https://qworld.net/qproject_101/
 
 **Mentor**: Abbas (Omid) Hassasfar
 
-**Mentees**: Malihe Yadavar, Navid Kazemiseresht, Hosein Bagheri pour
+**Mentees**: Malihe Yadavar, Navid Kazemiseresht, Hosein Bagheri Pour
